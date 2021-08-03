@@ -24,12 +24,10 @@ timezone: America/Phoenix
 
 title: a home for drew                          # the main title
 
-tagline: wait whos drew   # it will display as the sub-title
+tagline: wait who is drew   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  a cool fun websites for handsome folks with huge cocks
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://campjun.github.io'
@@ -43,7 +41,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: bigjim gravy
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
